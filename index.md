@@ -25,7 +25,7 @@ We begin with a simple premise: living systems are not static objects but trajec
 
 The notation used here is not decorative.     
 
-> $(x, y)$ name a **sequential state** (energy, mass, signal) and a **consequential transition** among ${e, m, s}$, with all transitions bounded by causal speed ($le c \, \text{m/s}$).
+> $(x, y)$ name a **sequential state** (energy, mass, signal) and a **consequential transition** among ${e, m, s}$, with all transitions bounded by causal speed ($le c$).
 
 What this does quietly—but importantly—is distinguish ontology from traffic laws. Energy, mass, and signal *exist* as state; transition is the lawful reshuffling among them, with relativity acting as the universe’s speed governor. Nothing outruns causality, not even ideas pretending to be instantaneous.
 
