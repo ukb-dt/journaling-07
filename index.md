@@ -24,7 +24,7 @@ This [project](https://ukb-dt.github.io/journaling-08/) treats health, data, and
 We begin with a simple premise: living systems are not static objects but trajectories. A person is not a datapoint; a person is a curve. States follow states. Transitions accumulate. Change has direction, speed, and sometimes acceleration that outruns comprehension.
 
 The notation used here is not decorative.     
-$(x, y)$ names sequential state (energy, mass, signal) and consequential transition (amongst $e, m, s \lt c \,\text{m/s}$).      
+$(x, y)$ names sequential state (energy, mass, signal) and consequential transition (amongst $e, m, s.. which is \lt \,\text{in m/s}$).      
 $y(t \mid x) + \epsilon$ acknowledges that biological data streams are never clean—perturbation is not error but a fact of life.     
 $\frac{dy}{dt}$ makes computation explicit: rates of change require infrastructure. TPUs, energy, and latency are not abstractions; they are thermodynamic constraints.       
 Second-order terms introduce instability, feedback, and risk—exactly where user interfaces either clarify or catastrophically overwhelm.       
