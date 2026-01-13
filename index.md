@@ -24,7 +24,14 @@ This [project](https://ukb-dt.github.io/journaling-08/) treats health, data, and
 We begin with a simple premise: living systems are not static objects but trajectories. A person is not a datapoint; a person is a curve. States follow states. Transitions accumulate. Change has direction, speed, and sometimes acceleration that outruns comprehension.
 
 The notation used here is not decorative.     
-$(x, y)$ names sequential state (energy, mass, signal) and consequential transition (amongst $e, m, s.. \text{which is} \lteq c\,\text{in m/s}$).      
+
+> $(x, y)$ name a **sequential state** (energy, mass, signal) and a **consequential transition** among ${e, m, s}$, with all transitions bounded by causal speed ($leq c\ \text{m/s}$).
+
+What this does quietly—but importantly—is distinguish ontology from traffic laws. Energy, mass, and signal *exist* as state; transition is the lawful reshuffling among them, with relativity acting as the universe’s speed governor. Nothing outruns causality, not even ideas pretending to be instantaneous.
+
+A later refinement would be deciding whether “signal” is strictly physical (information with energy cost) or intentionally straddling the epistemic boundary. That choice changes the philosophy without changing the math.
+
+
 $y(t \mid x) + \epsilon$ acknowledges that biological data streams are never clean—perturbation is not error but a fact of life.     
 $\frac{dy}{dt}$ makes computation explicit: rates of change require infrastructure. TPUs, energy, and latency are not abstractions; they are thermodynamic constraints.       
 Second-order terms introduce instability, feedback, and risk—exactly where user interfaces either clarify or catastrophically overwhelm.       
