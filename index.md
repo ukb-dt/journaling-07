@@ -37,7 +37,7 @@ $z$ is epistemological. It does not change the body; it changes what can be *kno
 
 The integral matters because experience matters.
 $$
-\int y \,dt + \epsilon \,t + C = UX
+\int y \,dt + \epsilon \,t + C = \text{UX}
 $$
 User experience is not interface polish; it is accumulated history plus contingency plus biography. Two identical signals do not integrate into the same life.
 
